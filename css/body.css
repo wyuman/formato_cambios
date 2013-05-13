@@ -1,0 +1,41 @@
+body{
+background: #E2EBEF
+}
+#contenedor{
+width: 900px;
+position: relative;
+top:25px;
+right:100px;
+left:250px;
+font-family:arial;
+
+
+
+}
+.normal{
+width: 300px;
+border: 1px solid #000;
+border-collapse: separate;
+}
+
+#centrar{
+	width: 200px;
+	height: 75px;
+
+}
+
+
+.estilotextarea{
+width:400px;
+height:100px;
+}
+
+
+div {
+  margin: .4em 0;
+}
+div label {
+  width: 30%;
+  float: left;
+}
+

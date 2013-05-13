@@ -1,0 +1,26 @@
+header{
+background: rgba(64,128,128,0.4);
+width: 80%;
+margin: auto auto;
+text-align: center;
+border-radius: 0.5em;
+box-shadow: rgba(0,0,0,0.75) 2px 2px 15px;
+}
+
+section{
+background: rgba(64,128,128,0.4);
+width:50%;
+margin: auto auto;
+margin-top: 0.5em;
+padding:3em;
+box-shadow: rgba(0,0,0,0.75) 2px 2px 15px;
+}
+
+header h2{
+font-family: "Arial";
+font-size: 12;
+padding:2em;
+margin: auto auto auto auto;
+}
+
+
